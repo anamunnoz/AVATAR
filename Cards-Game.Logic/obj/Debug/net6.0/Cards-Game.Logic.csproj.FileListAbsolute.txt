@@ -1,0 +1,108 @@
+C:\Users\18134\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+C:\Users\18134\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\18134\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\18134\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+D:\pkt\server\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+D:\server mezcla\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.deps.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\ref\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Logic\obj\Debug\net6.0\Cards-Game.Logic.pdb
