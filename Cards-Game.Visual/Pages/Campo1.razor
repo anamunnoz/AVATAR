@@ -1,0 +1,388 @@
+﻿@page "/Campo1"
+
+<PageTitle>Campo</PageTitle>
+
+<div class = "Back-Campo h-100 w-100">
+    @for(int i = 0; i < HoverCard.Length; i++)
+    {
+        @if(HoverCard[i] != null)
+        {
+            @if(HoverCard[i].category == "Monstruo")
+            {
+                Monstruo m = HoverCard[i] as Monstruo;
+                <div class="MonsterHover-1">
+                    <img src=@HoverCard[i].imagen class="Hover"/>
+                    <div class="MonsterHover">
+                        <p class="Nombre-Hover"> @m.name</p>
+                        <p class="Elemento-Hover"> elemento: @m.element</p>
+                        <p class="Fathers-Hover"> fathers: @m.fathers</p>
+                        <p class="Ataque-Hover"> ataque: @m.ataque </p>
+                        <p class="Defensa-Hover"> defensa: @m.defensa</p>
+                        <p class="Efecto-Hover"> @m.efecto</p>
+
+                    </div>
+                </div>
+            }
+
+            @if(HoverCard[i].category == "Magia")
+            {
+                Magic m = HoverCard[i] as Magic;
+                <img src=@HoverCard[i].imagen class="Hover"/>
+                <div class="MonsterHover">
+                        <p class="Nombre-Hover"> @m.name</p>
+                        <p class="Efecto-Hover"> @m.efecto</p>
+                </div>
+            }        
+        }
+    }
+</div>
+
+<div class="mb-3 Vida">
+    <div class="Player">
+        @if(juego.Camp.players[0].vida/40 >= 50)
+        {
+          <div class="progress-bar w-100 bg-success Vida1" role="progressbar" aria-label="Example with label" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">@(juego.Camp.players[0].vida / 40)%</div>
+        }
+
+        @if(juego.Camp.players[0].vida/40 < 50 &&  juego.Camp.players[0].vida/40 >30)
+        {
+            <div class="progress-bar w-100 bg-warning Vida1" role="progressbar" aria-label="Example with label" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">@(juego.Camp.players[0].vida / 40)%</div>
+        }
+
+        @if(juego.Camp.players[0].vida/40 <= 30)
+        {
+            <div class="progress-bar w-100 bg-danger Vida1" role="progressbar" aria-label="Example with label" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">@(juego.Camp.players[0].vida / 40)%</div>
+        }
+        
+        @if(juego.Camp.players[0].orbe == "Fuego")
+        {
+            <div class="spinner-grow text-info bg-danger Orbe" role="status">
+                <span class="visually-hidden">Loading...</span>
+                
+            </div>
+        }
+
+        @if(juego.Camp.players[0].orbe == "Aire")
+        {
+            <div class="spinner-grow text-info bg-secondary Orbe" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        }
+
+        @if(juego.Camp.players[0].orbe == "Agua")
+        {
+            <div class="spinner-grow text-info bg-info Orbe" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        }
+
+        @if(juego.Camp.players[0].orbe == "Tierra")
+        {
+            <div class="spinner-grow text-info Orbe Tierra" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        }
+    </div>
+
+    <div class="Player">
+         @if(juego.Camp.players[1].vida/40 >= 50)
+        {
+          <div class="progress-bar w-100 bg-success Vida2" role="progressbar" aria-label="Example with label" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">@(juego.Camp.players[1].vida / 40)%</div>
+        }
+
+        @if(juego.Camp.players[1].vida/40 < 50 &&  juego.Camp.players[1].vida/40 >30)
+        {
+            <div class="progress-bar w-100 bg-warning Vida2" role="progressbar" aria-label="Example with label" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">@(juego.Camp.players[1].vida / 40)%</div>
+        }
+
+        @if(juego.Camp.players[1].vida/40 <= 30)
+        {
+            <div class="progress-bar w-100 bg-danger Vida2" role="progressbar" aria-label="Example with label" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">@(juego.Camp.players[1].vida / 40)%</div>
+        }
+        
+        @if(juego.Camp.players[1].orbe == "Fuego")
+        {
+            <div class="spinner-grow text-info bg-danger Orbe" role="status">
+                <span class="visually-hidden">Loading...</span>
+                
+            </div>
+        }
+
+        @if(juego.Camp.players[1].orbe == "Aire")
+        {
+            <div class="spinner-grow text-info bg-secondary Orbe" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        }
+
+        @if(juego.Camp.players[1].orbe == "Agua")
+        {
+            <div class="spinner-grow text-info bg-info Orbe" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        }
+
+        @if(juego.Camp.players[1].orbe == "Tierra")
+        {
+            <div class="spinner-grow text-info Orbe Tierra" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="Cartas">
+    <div class="Mano1">
+        @if(juego.Camp.actualturn == 0)
+        {
+            @foreach(Cartas c in juego.Camp.players[0].Mano)
+            {
+                <figure id="Jugadores" class="figure" @onclick="@(e => Invoco(c))" @onmouseover="@(e => ShowCard(c))" @onmouseout="@(e => HideCard(c))">
+                    <img class="bd-placeholder-img figure-img img-fluid rounded" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src=@c.imagen/>
+                </figure>
+            }
+        }  
+    </div>
+</div>
+
+<div class="Campo-Botones">
+
+    <div class="Fin-Boton">
+        <button type="button" class="btn btn-lg Fin" @onclick="@(e => Fin())">finalizar turno</button> 
+    </div>
+    
+    <div class="Campos">
+        @foreach(Cartas c in juego.Camp.Campos[0])
+        {
+            <figure id="Jugadores" class="figure" @onclick="@(e => Guardar(c))"  @onmouseover="@(e => ShowCard(c))" @onmouseout="@(e => HideCard(c))">
+               <img class="bd-placeholder-img figure-img img-fluid rounded Cartas-Campo" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src=@c.imagen/>
+            </figure>
+        }
+
+        <br/>
+
+        @foreach(Cartas c in  juego.Camp.Campos[1])
+        { 
+            <figure id="Jugadores" class="figure" @onclick="@(e => Guardar(c))"  @onmouseover="@(e => ShowCard(c))" @onmouseout="@(e => HideCard(c))">
+               <img class="bd-placeholder-img figure-img img-fluid rounded Cartas-Campo" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src=@c.imagen/>
+            </figure>
+        }
+    </div>
+
+    <div class="Radio-Efecto-Monstruo">
+        <p class="Texto-Magia"> usar efecto </p>
+        @foreach(Cartas c in juego.Camp.Campos[juego.Camp.actualturn])
+        {
+            <input type="radio" name="radios" class="form-check-input Radio-Magico" id="exampleRadio2" @onclick="@(e => UsarEfecto(c))">
+        }
+    </div>
+
+</div>
+
+<div class="Cartas">
+    <div class="Mano2">
+        @if(juego.Camp.actualturn == 1)
+        {
+            @foreach(Cartas c in juego.Camp.players[1].Mano)
+             {
+                <figure id="Jugadores" class="figure" @onclick="@(e => Invoco(c))"  @onmouseover="@(e => ShowCard(c))" @onmouseout="@(e => HideCard(c))">
+                    <img class="bd-placeholder-img figure-img img-fluid rounded" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src=@c.imagen/>
+                </figure> 
+             }
+        }
+    </div>
+</div>
+
+<div class="Winner">
+
+    @if(juego.Camp.Mazo.Count == 0 || juego.Camp.players[0].vida <= 0 || juego.Camp.players[1].vida<=0)
+    {
+        @if(juego.Camp.players[0].vida > juego.Camp.players[1].vida)
+        {
+            <p class="Ganador"> GANADOR: PLAYER 1 </p>
+            @if(juego.Camp.players[0].orbe == "Fuego")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/fuego.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/nacionfuego.jpg"/>
+            }
+            @if(juego.Camp.players[0].orbe == "Aire")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/aire.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/nacionaire.jpg"/>
+            }
+            @if(juego.Camp.players[0].orbe == "Agua")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/agua.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/nacionagua.jpg"/>
+            }
+            @if(juego.Camp.players[0].orbe == "Tierra")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/tierra.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/naciontierra.png"/>
+            }
+        }
+        @if(juego.Camp.players[0].vida < juego.Camp.players[1].vida)
+        {
+            <p class="Ganador"> GANADOR: PLAYER 2 </p>
+            @if(juego.Camp.players[1].orbe == "Fuego")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/fuego.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/nacionfuego.jpg"/>
+
+            }
+            @if(juego.Camp.players[1].orbe == "Aire")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/aire.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/nacionaire.jpg"/>
+            }
+            @if(juego.Camp.players[1].orbe == "Agua")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/agua.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/nacionagua.jpg"/>
+            }
+            @if(juego.Camp.players[1].orbe == "Tierra")
+            {
+                <img class="bd-placeholder-img figure-img img-fluid rounded Foto-Winner" id="tony" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/tierra.png"/>
+                <img class="bd-placeholder-img figure-img img-fluid rounded Nacion" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/naciontierra.png"/>
+            }
+        }
+        @if(juego.Camp.players[0].vida == juego.Camp.players[1].vida)
+        {
+            <p class="Empate-Texto"> EMPATADO </p>
+            <img class="bd-placeholder-img figure-img img-fluid rounded Empate" width="75" height="100" role="img" aria-label="Placeholder: 75x100" preserveAspectRatio="xMidYMid slice" focusable="false" src="../images/empate.png"/>
+        } 
+    }
+</div>
+
+
+@code{
+
+    GAME juego = new GAME("1"); 
+    
+    Cartas[] HoverCard = new Cartas[1];    
+
+    public int PosicionCarta(Cartas c,Campo Status)
+    {
+        int posicionCarta = 0;
+        for(int i = 0 ; i < Status.players[Status.actualturn].Mano.Count ; i++)
+        {
+            if(c.id == Status.players[Status.actualturn].Mano[i].id) 
+            {
+                posicionCarta = i;
+                break;
+           }
+        }
+        return posicionCarta;
+    }
+
+    public int PosicionCampo(Cartas c, Campo Status)
+    {
+        int posicion = 0;
+        for(int i = 0 ; i < Status.Campos[Status.actualturn].Count ; i++)
+        {
+            if(c.id == Status.Campos[Status.actualturn][i].id)
+            {
+                posicion = i;
+                break;
+            }
+        }
+        return posicion;
+    }
+
+    public int PosicionCampoEnemigo(Cartas c, Campo Status)
+   {
+        int posicion = 0;
+        for(int i = 0 ; i < Status.Campos[Status.Find_victim()].Count ; i++)
+        {
+            if(c.id == Status.Campos[Status.Find_victim()][i].id)
+            {
+                posicion = i;
+                break;
+            }
+        }
+        return posicion;
+     }
+
+
+    public void Fin()
+    {
+        string fin = "Fin";
+        juego.Camp.players[juego.Camp.actualturn].action = fin;
+        juego.GetEnumerator().MoveNext();
+        
+    }
+
+    public void ShowCard(Cartas c)
+    {
+        HoverCard[0] = c;
+    }
+
+    public void HideCard(Cartas c)
+    {
+        HoverCard[0] = null;
+    }
+
+    public void Invoco(Cartas c)
+    {
+        if(c.category == "Monstruo")
+        {
+            string invocar = "Invocar" + " " + PosicionCarta(c,juego.Camp).ToString();
+            juego.Camp.players[juego.Camp.actualturn].action = invocar;
+            juego.GetEnumerator().MoveNext();
+        }       
+        else if(c.category == "Magia")
+        {
+            UsarMagia(c);
+        }
+        
+    }
+
+    public void UsarMagia(Cartas c)
+    {
+        string magia = "Magia" + " " + PosicionCarta(c, juego.Camp).ToString();
+        juego.Camp.players[juego.Camp.actualturn].action = magia;
+        juego.GetEnumerator().MoveNext();
+    }
+   
+    List< Cartas > aplicar = new();
+
+    public void Guardar(Cartas c)
+    {
+        aplicar.Add(c);
+        
+        if(aplicar.Count ==2)
+        {
+            if(aplicar[0].category == "Monstruo" && aplicar[1].category == "Monstruo")
+            {
+                if(juego.Camp.Campos[juego.Camp.Find_victim()].Count == 0)
+                {
+                    string datacar = "DAtacar" + " " + PosicionCampo(aplicar[0], juego.Camp).ToString();
+                    juego.Camp.players[juego.Camp.actualturn].action = datacar;
+                    juego.GetEnumerator().MoveNext();
+                }
+                else if(juego.Camp.Campos[juego.Camp.Find_victim()].Count != 0)
+                {
+                    string atacar = "Atacar" + " " + PosicionCampo(aplicar[0], juego.Camp).ToString() + " " + PosicionCampoEnemigo(aplicar[1], juego.Camp).ToString();
+                    juego.Camp.players[juego.Camp.actualturn].action = atacar;
+                    juego.GetEnumerator().MoveNext();
+                }
+            }
+
+        }
+        else if(aplicar.Count > 2)
+        {
+            aplicar.Clear();
+            Guardar(c);
+        }
+    }
+
+    
+
+    public void UsarEfecto(Cartas c)
+    {
+        string efecto = "Efecto" + " " + PosicionCampo(c, juego.Camp).ToString();
+        juego.Camp.players[juego.Camp.actualturn].action = efecto;
+        juego.GetEnumerator().MoveNext();
+            
+    }
+}

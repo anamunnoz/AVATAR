@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cards_Game.Visual
+build_property.RootNamespace = Cards_Game.Visual
+build_property.ProjectDir = C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/Campo0.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtcG8wLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/Campo1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtcG8xLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/Campo2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtcG8yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/Interprete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW50ZXJwcmV0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-642qb8gkgu
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ana Paula/Desktop/server/Cards-Game Project/Cards-Game.Visual/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

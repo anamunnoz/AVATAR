@@ -1,0 +1,262 @@
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\18134\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\server\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\Ana Paula\Desktop\server mezcla\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\Ana Paula\Desktop\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+D:\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\ESTAAAAA\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\18134\Desktop\New folder\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\18134\Desktop\ESTA SI QUE SIIIIUUU\server mezcla 2 (ambas)\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\appsettings.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.staticwebassets.runtime.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.exe
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.deps.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.runtimeconfig.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\bin\Debug\net6.0\Cards-Game.Logic.pdb
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.AssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cache
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.RazorAssemblyInfo.cs
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\bundle\Cards-Game.Visual.styles.css
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\scopedcss\projectbundle\Cards-Game.Visual.bundle.scp.css
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.csproj.CopyComplete
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\ref\Cards-Game.Visual.dll
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.pdb
+C:\Users\Ana Paula\Desktop\AVATAR\Cards-Game Project\Cards-Game.Visual\obj\Debug\net6.0\Cards-Game.Visual.genruntimeconfig.cache
