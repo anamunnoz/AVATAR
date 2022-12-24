@@ -1,0 +1,354 @@
+[
+  {
+    "Id": 1,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a tierra",
+    "Imagen": "../images/orbetierra.png",
+    "Code": "BEGIN; PCOrbe:=3; END."
+  },
+  {
+    "Id": 5,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a aire",
+    "Imagen": "../images/orbeaire.png",
+    "Code": "BEGIN; PCOrbe:=4; END."
+  },
+  {
+    "Id": 7,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a fuego",
+    "Imagen": "../images/orbefuego.png",
+    "Code": "BEGIN; PCOrbe:=1; END."
+  },
+  {
+    "Id": 9,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a tierra",
+    "Imagen": "../images/orbetierra.png",
+    "Code": "BEGIN; ECOrbe:=3; END."
+  },
+  {
+    "Id": 13,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a aire",
+    "Imagen": "../images/orbeaire.png",
+    "Code": "BEGIN; ECOrbe:=4; END."
+  },
+  {
+    "Id": 15,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a fuego",
+    "Imagen": "../images/orbefuego.png",
+    "Code": "BEGIN; ECOrbe:=1; END."
+  },
+  {
+    "Id": 17,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio de manera aleatoria",
+    "Imagen": "../images/orbealeatorio.png",
+    "Code": "BEGIN; PCOrbe:=5; END."
+  },
+  {
+    "Id": 19,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo de manera aleatoria",
+    "Imagen": "../images/orbealeatorio.png",
+    "Code": "BEGIN; ECOrbe:=5; END."
+  },
+  {
+    "Id": 21,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio y del enemigo de manera aleatoria",
+    "Imagen": "../images/orbeambosaleatoria.png",
+    "Code": "BEGIN; PCOrbe:=5; ECOrbe:=5; END."
+  },
+  {
+    "Id": 23,
+    "Name": "Elemental rain",
+    "Category": "Magia",
+    "Efecto": "Potencia el ataque de todos tus monstruos invocados en 100 puntos",
+    "Imagen": "../images/potenciarataque.jpg",
+    "Code": "BEGIN; PAtaque:=100; END."
+  },
+  {
+    "Id": 25,
+    "Name": "Shield Wolf",
+    "Category": "Magia",
+    "Efecto": "Potencia la defensa de todos tus monstruos invocados en 100 puntos",
+    "Imagen": "../images/potenciardefensa.jpg",
+    "Code": "BEGIN; PDefensa:=100; END."
+  },
+  {
+    "Id": 27,
+    "Name": "Poison",
+    "Category": "Magia",
+    "Efecto": "Disminuye el ataque de los monstruos del enemigo en 100 puntos",
+    "Imagen": "../images/disminuirataque.jpg",
+    "Code": "BEGIN; EAtaque:= -100; END."
+  },
+  {
+    "Id": 29,
+    "Name": "Posion",
+    "Category": "Magia",
+    "Efecto": "Disminuye la defensa de los monstruos del enemigo en 100 puntos",
+    "Imagen": "../images/disminuirataque.jpg",
+    "Code": "BEGIN; EDefensa:= -100; END."
+  },
+  {
+    "Id": 31,
+    "Name": "Double Kick",
+    "Category": "Magia",
+    "Efecto": "Si tienes menos de dos monstruos en el campo cada uno de estos monstruos puede atacar dos veces este turno",
+    "Imagen": "../images/doublekick.jpg",
+    "Code": "BEGIN; IF(PCampo<3) PA:=-1; END."
+  },
+  {
+    "Id": 33,
+    "Name": "Double Punch",
+    "Category": "Magia",
+    "Efecto": "Si tienes un monstruo en el campo dicho monstruo puede activar su efecto dos veces",
+    "Imagen": "../images/doublepunch.jpg",
+    "Code": "BEGIN; IF(PCampo==1) PE:=-1; END."
+  },
+  {
+    "Id": 35,
+    "Name": "Double Edge",
+    "Category": "Magia",
+    "Efecto": "El enemigo pierde vida equivalente al ataque total de sus monstruos",
+    "Imagen": "../images/doubledge.jpg",
+    "Code": "BEGIN; EVida:= EVida - ETA; END;"
+  },
+  {
+    "Id": 37,
+    "Name": "Clarity",
+    "Category": "Magia",
+    "Efecto": "El usuario gana vida equivalente a la defensa de los monstruos enemigos",
+    "Imagen": "../images/clarity.jpg",
+    "Code": "BEGIN; PVida:= PVida + ETD; END;"
+  },
+  {
+    "Id": 39,
+    "Name": "Dark Pact",
+    "Category": "Magia",
+    "Efecto": "Pierde una carta de tu campo y  el enemigo es incapaz de atacar en el siguiente turno con sus monstruos actuales",
+    "Imagen": "../images/block.png",
+    "Code": "BEGIN; IF(PCampo>0) PCampo:=PCampo-1; EA:=1; END."
+  },
+  {
+    "Id": 41,
+    "Name": "Ambush",
+    "Category": "Magia",
+    "Efecto": "Disminuye la vida del enemigo segun el monstruo de mayor ataque en su campo",
+    "Imagen": "../images/mayorataquecampo.jpg",
+    "Code": "BEGIN; EVida:=EVida-EMA; END."
+  },
+  {
+    "Id": 43,
+    "Name": "Salve",
+    "Category": "Magia",
+    "Efecto": "Aumenta tu vida segun el monstruo de mayor defensa del enemigo",
+    "Imagen": "../images/salve.jpg",
+    "Code": "BEGIN; PVida:=PVida + EMD; END."
+  },
+  {
+    "Id": 11,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a agua",
+    "Imagen": "../images/orbeagua.png",
+    "Code": "BEGIN; ECOrbe:=2; END."
+  },
+  {
+    "Id": 3,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a agua",
+    "Imagen": "../images/orbeagua.png",
+    "Code": "BEGIN; PCOrbe:=2; END."
+  },
+  {
+    "Id": 45,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a tierra",
+    "Imagen": "../images/orbetierra.png",
+    "Code": "BEGIN; PCOrbe:=3; END."
+  },
+  {
+    "Id": 47,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a aire",
+    "Imagen": "../images/orbeaire.png",
+    "Code": "BEGIN; PCOrbe:=4; END."
+  },
+  {
+    "Id": 49,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a fuego",
+    "Imagen": "../images/orbefuego.png",
+    "Code": "BEGIN; PCOrbe:=1; END."
+  },
+  {
+    "Id": 51,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a tierra",
+    "Imagen": "../images/orbetierra.png",
+    "Code": "BEGIN; ECOrbe:=3; END."
+  },
+  {
+    "Id": 53,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a aire",
+    "Imagen": "../images/orbeaire.png",
+    "Code": "BEGIN; ECOrbe:=4; END."
+  },
+  {
+    "Id": 55,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a fuego",
+    "Imagen": "../images/orbefuego.png",
+    "Code": "BEGIN; ECOrbe:=1; END."
+  },
+  {
+    "Id": 57,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio de manera aleatoria",
+    "Imagen": "../images/orbealeatorio.png",
+    "Code": "BEGIN; PCOrbe:=5; END."
+  },
+  {
+    "Id": 59,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo de manera aleatoria",
+    "Imagen": "../images/orbealeatorio.png",
+    "Code": "BEGIN; ECOrbe:=5; END."
+  },
+  {
+    "Id": 61,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio y del enemigo de manera aleatoria",
+    "Imagen": "../images/orbeambosaleatoria.png",
+    "Code": "BEGIN; PCOrbe:=5; ECOrbe:=5; END."
+  },
+  {
+    "Id": 63,
+    "Name": "Elemental rain",
+    "Category": "Magia",
+    "Efecto": "Potencia el ataque de todos tus monstruos invocados en 100 puntos",
+    "Imagen": "../images/potenciarataque.jpg",
+    "Code": "BEGIN; PAtaque:=100; END."
+  },
+  {
+    "Id": 65,
+    "Name": "Shield Wolf",
+    "Category": "Magia",
+    "Efecto": "Potencia la defensa de todos tus monstruos invocados en 100 puntos",
+    "Imagen": "../images/potenciardefensa.jpg",
+    "Code": "BEGIN; PDefensa:=100; END."
+  },
+  {
+    "Id": 67,
+    "Name": "Poison",
+    "Category": "Magia",
+    "Efecto": "Disminuye el ataque de los monstruos del enemigo en 100 puntos",
+    "Imagen": "../images/disminuirataque.jpg",
+    "Code": "BEGIN; EAtaque:= -100; END."
+  },
+  {
+    "Id": 69,
+    "Name": "Posion",
+    "Category": "Magia",
+    "Efecto": "Disminuye la defensa de los monstruos del enemigo en 100 puntos",
+    "Imagen": "../images/disminuirataque.jpg",
+    "Code": "BEGIN; EDefensa:= -100; END."
+  },
+  {
+    "Id": 71,
+    "Name": "Double Kick",
+    "Category": "Magia",
+    "Efecto": "Si tienes menos de dos monstruos en el campo cada uno de estos monstruos puede atacar dos veces este turno",
+    "Imagen": "../images/doublekick.jpg",
+    "Code": "BEGIN; IF(PCampo<3) PA:=-1; END."
+  },
+  {
+    "Id": 73,
+    "Name": "Double Punch",
+    "Category": "Magia",
+    "Efecto": "Si tienes un monstruo en el campo dicho monstruo puede activar su efecto dos veces",
+    "Imagen": "../images/doublepunch.jpg",
+    "Code": "BEGIN; IF(PCampo==1) PE:=-1; END."
+  },
+  {
+    "Id": 75,
+    "Name": "Double Edge",
+    "Category": "Magia",
+    "Efecto": "El enemigo pierde vida equivalente al ataque total de sus monstruos",
+    "Imagen": "../images/doubledge.jpg",
+    "Code": "BEGIN; EVida:= EVida - ETA; END;"
+  },
+  {
+    "Id": 77,
+    "Name": "Clarity",
+    "Category": "Magia",
+    "Efecto": "El usuario gana vida equivalente a la defensa de los monstruos enemigos",
+    "Imagen": "../images/clarity.jpg",
+    "Code": "BEGIN; PVida:= PVida + ETD; END;"
+  },
+  {
+    "Id": 79,
+    "Name": "Dark Pact",
+    "Category": "Magia",
+    "Efecto": "Pierde una carta de tu campo y el enemigo es incapaz de atacar en el siguiente turno con sus monstruos actuales",
+    "Imagen": "../images/block.png",
+    "Code": "BEGIN; IF(PCampo>0) PCampo:=PCampo-1; EA:=1; END."
+  },
+  {
+    "Id": 81,
+    "Name": "Ambush",
+    "Category": "Magia",
+    "Efecto": "Disminuye la vida del enemigo segun el monstruo de mayor ataque en su campo",
+    "Imagen": "../images/mayorataquecampo.jpg",
+    "Code": "BEGIN; EVida:=EVida-EMA; END."
+  },
+  {
+    "Id": 83,
+    "Name": "Salve",
+    "Category": "Magia",
+    "Efecto": "Aumenta tu vida segun el monstruo de mayor defensa del enemigo",
+    "Imagen": "../images/salve.jpg",
+    "Code": "BEGIN; PVida:=PVida + EMD; END."
+  },
+  {
+    "Id": 85,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe enemigo a agua",
+    "Imagen": "../images/orbeagua.png",
+    "Code": "BEGIN; ECOrbe:=2; END."
+  },
+  {
+    "Id": 87,
+    "Name": "Change Orbe",
+    "Category": "Magia",
+    "Efecto": "Cambia el orbe propio a agua",
+    "Imagen": "../images/orbeagua.png",
+    "Code": "BEGIN; PCOrbe:=2; END."
+  }
+]
