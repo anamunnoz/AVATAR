@@ -1,0 +1,62 @@
+﻿.Back {
+    background-image: url("../images/inicio.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 0;
+    padding: 0 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.TBotones {
+    display: grid;
+    position: fixed;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-self: center;
+    top: 60%;
+    left: 29%;
+    justify-self: center;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.Index-Buttons {
+    font-size: 22px;
+    font-family: 'Lacquer', sans-serif;
+    background-color: #d3cebf;
+    opacity: 0.8;
+    border-color: #d3cebf;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.Index-Buttons:hover{
+    background-color:white;
+}
+.Botones1{
+    position: relative;
+    margin-top: 3.2%;
+    justify-content: center;
+}
+
+.Botones2{
+    position: relative;
+    margin-top:4.5%;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: none;
+}

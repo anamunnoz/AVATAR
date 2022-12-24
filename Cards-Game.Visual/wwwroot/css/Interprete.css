@@ -1,0 +1,92 @@
+﻿.Encabezado {
+    margin-top: 2%;
+    font-size: 600%;
+    font-weight: 100;
+    font-family: 'Lacquer', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.Back1 {
+    background-image: url("../images/interprete.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 0;
+    padding: 0 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.Nombre {
+    width: 40%;
+    font-family: 'Lacquer', sans-serif;
+    opacity: 0.8;
+}
+
+.AD {
+    display: flex;
+    margin-right: 5%;
+    opacity: 0.8;
+    width: 28%;
+}
+
+.AD-Texto {
+    font-family: 'Lacquer', sans-serif;
+    text-align: center;
+}
+
+.Ataque {
+    font-family: 'Lacquer', sans-serif;
+    margin-right: 5%;
+    opacity: 0.8;
+}
+
+.Codigo {
+    width: 40%;
+    margin-top: -12.7%;
+    left: 50%;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.Cabecera-Efecto {
+    font-size: 122%;
+    font-family: 'Lacquer', sans-serif;
+}
+
+.Enviar {
+    top: 90%;
+    left: 68%;
+    position: fixed;
+    font-family: 'Lacquer', sans-serif;
+}
+
+.Elementos {
+    margin-bottom: -0.1rem;
+    font-family: 'Lacquer', sans-serif;
+    color: white;
+}
+
+.Tipografia {
+    font-family: 'Lacquer', sans-serif;
+    color: white;
+}
+
+.Enviar-B {
+    background-color: white;
+    opacity: 0.5;
+    color: black;
+    border: none;
+}
+
+.Enviar-B:hover {
+    background-color: white;
+    border-color: white;
+}
+
+#Codigo-Efecto{
+    margin-top: 5%;
+}
