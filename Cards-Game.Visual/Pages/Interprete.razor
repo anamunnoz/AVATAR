@@ -6,8 +6,6 @@
         <p></p>
 </div>
 
-<h1 class="Encabezado">Crear Cartas</h1>
-
 
 <div class = "Contenido-Ambos-Lados">
     
@@ -40,6 +38,11 @@
 
         <br/>
 
+        <div class="Codigo">
+            <textarea class="form-control Cabecera-Efecto" id="Efecto-Texto" aria-label="With textarea" placeholder="Introduzca el efecto de la carta" @bind="efecto"></textarea>
+            <textarea class="form-control Cabecera-Efecto" id="Codigo-Efecto" aria-label="With textarea" placeholder="Introduzca el codigo del efecto de la carta" @bind="codigo"></textarea>
+        </div>  
+
         <div>
 
             @if(index == 0)
@@ -68,10 +71,7 @@
         </div>
     </div>
 
-    <div class="Codigo">
-        <textarea class="form-control Cabecera-Efecto" aria-label="With textarea" placeholder="Introduzca el efecto de la carta" @bind="efecto"></textarea>
-        <textarea class="form-control Cabecera-Efecto" id="Codigo-Efecto" aria-label="With textarea" placeholder="Introduzca el codigo del efecto de la carta" @bind="codigo"></textarea>
-    </div>
+    
 
 </div>
 
