@@ -62,12 +62,13 @@ public class Jugador
         {
             if (status.Campos[status.actualturn].Count != 5)
             {
+                List<Monstruo> op=new List<Monstruo>();
                 for (int i = 0; i < Mano.Count; i++)
                 {
                     if (Mano[i].category == "Monstruo")
                     {
                         var comprobation = Mano[i] as Monstruo;
-                        if (comprobation.element == "Fuego" || comprobation.element == "Agua" || comprobation.element == "Aire" || comprobation.element == "Tierra") return "Invocar" + " " + i;
+                        if (comprobation.element == "Fuego" || comprobation.element == "Agua" || comprobation.element == "Aire" || comprobation.element == "Tierra") op.Add(Mano[i] as Monstruo);
                         else
                         {
                             List<int> list = new List<int>();
@@ -83,11 +84,23 @@ public class Jugador
                                     }
                                 }
                             }
-                            if (list.Count == 2) return "Invocar" + " " + i;
+                            if (list.Count == 2) op.Add(Mano[i] as Monstruo);
                         }
                     }
                 }
-
+                List<Monstruo> result= op.OrderByDescending(x => x.ataque).ToList();
+                if(result.Count > 0)
+                {
+                    int i = 0;
+                    foreach(Cartas c in Mano)
+                    {
+                        if(c.id== result[0].id)
+                        {
+                            return "Invocar" + " " + i;
+                        }
+                        i++;
+                    }
+                }
             }
         }
         
