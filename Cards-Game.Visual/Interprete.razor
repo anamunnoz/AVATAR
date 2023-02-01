@@ -1,0 +1,143 @@
+﻿@page "/Interprete"
+
+<PageTitle>Interprete</PageTitle>
+
+<div class = "Back1 h-100 w-100">
+        <p></p>
+</div>
+
+
+<div class = "Contenido-Ambos-Lados">
+    
+    <div class = "Lado-Izquierdo">
+
+        <div class="Nombre">
+            <input class="form-control form-control-lg PrimerForm" type="text" placeholder="Nombre de la carta" aria-label=".form-control-lg example" @bind="name">
+        </div> 
+
+        <br/>
+    
+        <div>
+
+            <legend class="Tipografia">Tipo de carta</legend>
+            <fieldset>
+                <div class="form-check Lista1 Tipo-De-Carta">
+                    <input type="radio" name="radios" class="form-check-input" id="exampleRadio1" @onclick="@(e => QueTipo(1))">
+                    <label class="form-check-label Tipografia" for="exampleRadio1"> Magia </label>
+                </div>
+            </fieldset>
+
+            <fieldset class="">
+                <div class="form-check Lista1 Tipo-De-Carta">
+                    <input type="radio" name="radios" class="form-check-input" id="exampleRadio1" @onclick="@(e => QueTipo(0))">
+                    <label class="form-check-label Tipografia" for="exampleRadio1"> Monstruo </label>
+                </div>
+            </fieldset>
+
+        </div>
+
+        <br/>
+
+        <div class="Codigo">
+            <textarea class="form-control Cabecera-Efecto" id="Efecto-Texto" aria-label="With textarea" placeholder="Introduzca el efecto de la carta" @bind="efecto"></textarea>
+            <textarea class="form-control Cabecera-Efecto" id="Codigo-Efecto" aria-label="With textarea" placeholder="Introduzca el codigo del efecto de la carta" @bind="codigo"></textarea>
+        </div>  
+
+        <div>
+
+            @if(index == 0)
+            {
+                <div class="AD">
+                    <input class="form-control form-control-lg AD-Texto Ataque" type="number" placeholder="Ataque" aria-label=".form-control-lg example" @bind="ataque">
+                    <input class="form-control form-control-lg AD-Texto" type="number" placeholder="Defensa" aria-label=".form-control-lg example" @bind="defensa">
+                </div>
+
+                <br/>
+
+                <legend class="Tipografia"> Elemento de la carta </legend>
+
+                @foreach(string s in elementos)
+                {
+                    <fieldset>
+                        <div class="form-check Elementos">
+                            <input type="radio" name="radios2" class="form-check-input" id="exampleRadio1"  @onclick="@(e => Elemento(s))">
+                            <label class="form-check-label" for="exampleRadio1"> @s </label>
+                        </div>
+                    </fieldset>
+                 }
+          
+            }
+
+        </div>
+    </div>
+
+    
+
+</div>
+
+<div class="Enviar">
+   <button type="button" class="btn btn-primary btn-lg Enviar-B" @onclick="@(e => Enviar())">Enviar</button>
+</div>
+
+
+
+@code{
+    private string name;
+    private double ataque;
+    private double defensa;
+    private string element;
+    private string tipo;
+    private string efecto;
+    private int idMonstruo;
+    private int idMagia;
+    private string foto = "../images/default.jpg";
+    private string Mfoto = "../images/mfoto.png";
+    private string codigo = " ";
+
+    string[] elementos = {"Agua" , "Tierra" , "Fuego" , "Aire" , "Flama" , "Llamarada" , "Lava" , "Hielo" , "Planta" , "Ciclon" , "Terremoto"};
+
+    int index = -1;
+
+    public void QueTipo(int i) 
+    {  
+        index = i;
+        if(i ==1)
+        {
+            tipo = "Magia";
+        }
+        if(i ==0)
+        {
+            tipo = "Monstruo";
+        }
+    }
+
+    public void Elemento(string e)
+    {
+        element = e;
+    }
+    
+    public void CambioId(int idcambio)
+    {
+        idcambio +=2;
+    }
+    
+    public void Enviar()
+    {
+        
+        BaseDatos BaseDeDatos = new BaseDatos();
+        if(tipo == "Monstruo")
+        {
+            idMonstruo = BaseDeDatos.CargarId(BaseDeDatos.idMonstruo);
+            Monstruo mons = new Monstruo(name, ataque, defensa, element, efecto, idMonstruo, foto, codigo);
+            BaseDeDatos.GuardarMonstruo(mons);
+        }
+
+        if(tipo == "Magia")
+        {
+            idMagia = BaseDeDatos.CargarId(BaseDeDatos.idMagia);
+            Magic magia = new Magic(name, idMagia, efecto, Mfoto, codigo);    
+            BaseDeDatos.GuardarMagia(magia);        
+        }
+    }
+
+}
