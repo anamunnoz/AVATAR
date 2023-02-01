@@ -136,7 +136,8 @@ public class Monstruo : Cartas
         this.code = code;
     }
 
-    public Monstruo() //constructor vacio que necesita el json
+    //constructor vacio que necesita el json
+    public Monstruo() 
     {
 
     }

@@ -11,8 +11,8 @@ public class Campo
     public Jugador[] players = new Jugador[2] { new Jugador(), new Jugador() };
     //campos del juego
     public List<Monstruo>[] Campos = new List<Monstruo>[2] { new List<Monstruo>(), new List<Monstruo>() }; //propiedad que guarda las cartas que cada jugador invoca en sus respectivos campos
-    //mazo
-    public List<Cartas> Mazo=new List<Cartas>(); //mazo del juego
+    //mazo del juego
+    public List<Cartas> Mazo=new List<Cartas>(); 
     //variable que indica de quien es el turno actual
     public int actualturn = 0; 
     //indica si es el primer turno
@@ -73,11 +73,8 @@ public class Campo
     public int Find_victim() 
     {
         int victima;
-
         if (actualturn == 0) victima = 1;
-
-        else victima = 0;
-    
+        else victima = 0;   
         return victima;
     }
 

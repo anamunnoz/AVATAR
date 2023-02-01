@@ -14,12 +14,11 @@ public static class Actions
     /// <param name="Juego"> estado actual del juego</param>
     /// <returns></returns>
     public static Campo Atacar(Monstruo sujeto, Monstruo atacada, Campo Juego) //metodo que designa los posibles casos de un ataque de un mosntruo a otro
-    {
+    {      
         if (!Juego.inicial)
         {
             if (sujeto.att <= 0)
-            {
-                
+            {               
                 sujeto.att++;
                 //Si el enemigo tiene monstruos en el campo
                 if (Juego.Campos[Juego.Find_victim()].Count >= 1)
@@ -32,42 +31,31 @@ public static class Actions
                     //Si el monstruo atacante es mas fuerte
                     if (sujeto.ataque * multiplicador > atacada.defensa * multiplicadorDef)
                     {
-
                         Destroy(atacada, Juego.Find_victim(), Juego);
-
-
                         Cambiar_Vida((sujeto.ataque * multiplicador) - (atacada.defensa * multiplicadorDef), Juego.players[Juego.Find_victim()]);
-
                     }
 
                     //Si el monstruo atacado es mas fuerte
                     else if (sujeto.ataque * multiplicador < atacada.defensa * multiplicadorDef)
                     {
                         Destroy(sujeto, Juego.actualturn, Juego);
-
                         atacada.defensa = atacada.defensa * multiplicadorDef - (sujeto.ataque * multiplicador);
-
                     }
 
                     //Si ambos monstruos son igual de fuertes
                     else
                     {
                         Destroy(sujeto, Juego.actualturn, Juego);
-
                         Destroy(atacada, Juego.Find_victim(), Juego);
-
                     }
 
                 }
                 //Si el enemigo no tiene monstruos en el campo
                 else
                 {
-
                     if (sujeto.element == Juego.players[Juego.actualturn].orbe || sujeto.fathers.Contains(Juego.players[Juego.actualturn].orbe))
                     {
-
                         Cambiar_Vida(sujeto.ataque * Juego.players[Juego.actualturn].multiplicadorORBE, Juego.players[Juego.Find_victim()]);
-
                     }
                     else Cambiar_Vida(sujeto.ataque, Juego.players[Juego.Find_victim()]);
 

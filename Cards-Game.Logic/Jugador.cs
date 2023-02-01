@@ -47,14 +47,10 @@ public class Jugador
         //Si puede usar efectos, procede
         for (int i = 0; i < status.Campos[status.actualturn].Count; i++)
         {
-
             if (status.Campos[status.actualturn][i].ef == 0 && status.Campos[status.actualturn][i].efecto!="Ninguno")
             {
-
                 return "Efecto" + " " + i;
-
             }
-
         }
 
         //Si puede realizar invocaciones, procede a invocar
@@ -111,13 +107,10 @@ public class Jugador
             {
                 if (Mano[i].category == "Magia" && status.Campos[status.actualturn].Count >= 1)
                 {
-
                     return "Magia" + " " + i;
-
                 }
 
             }
-
         }
        
         //Si puede atacar, procede

@@ -24,8 +24,7 @@ public class GAME : IEnumerable<Campo>
 
     //propiedad que almacena el status del juego
     public Campo Camp;
-    //propiedad que designa a que jugador le corresponder jugar
-    public int turno = 0;
+   
 
     /// <summary>
     /// constructor de game que almacena el status del juego
